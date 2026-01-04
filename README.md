@@ -44,9 +44,23 @@ Building scalable data pipelines and deploying AI/ML solutions in Luxembourg üá
 
 ## üèÜ Certifications
 
-<a href="https://learn.deeplearning.ai/certificates/2a9c2778-7424-4379-b34a-384272c9303c">
-  <img src="https://img.shields.io/badge/DeepLearning.AI-PyTorch_Professional_Certificate-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Professional Certificate" />
-</a>
+| Certificate | Issuer | Year |
+|-------------|--------|------|
+| [**PyTorch for Deep Learning Professional Certificate**](https://learn.deeplearning.ai/certificates/2a9c2778-7424-4379-b34a-384272c9303c) | DeepLearning.AI | 2026 |
+| [**Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/U89AFBFR4NMM) | Stanford University | 2023 |
+| [**Data Engineering and AWS**](https://www.coursera.org/account/accomplishments/specialization/OUGD3WNPRZ1I) | DeepLearning.AI | 2024 |
+| [**Advanced Data Analytics Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/AALR5T4XSEY6) | Google | 2023 |
+| [**AZ-900: Azure Fundamentals**](https://learn.microsoft.com/api/achievements/share/en-us/YasarKAYA-5240/JY5EYETG) | Microsoft | 2023 |
+| [**Professional Scrum Master (PSM 1)**](https://www.scrum.org/certificates/1021848) | Scrum.org | 2022 |
+| **Certified Scrum Product Owner** | Scrum Alliance | 2022 |
+
+<p>
+  <img src="https://img.shields.io/badge/DeepLearning.AI-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stanford-ML_Specialization-8C1515?style=flat-square&logo=coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum.org-PSM_I-009FDA?style=flat-square&logo=scrum&logoColor=white" />
+</p>
 
 ---
 
