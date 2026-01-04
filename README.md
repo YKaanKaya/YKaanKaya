@@ -47,6 +47,7 @@ Building scalable data pipelines and deploying AI/ML solutions in Luxembourg ðŸ‡
 | Certificate | Issuer | Year |
 |-------------|--------|------|
 | [**PyTorch for Deep Learning Professional Certificate**](https://learn.deeplearning.ai/certificates/2a9c2778-7424-4379-b34a-384272c9303c) | DeepLearning.AI | 2026 |
+| [**Building AI Agents with Multimodal Models**](https://learn.nvidia.com/certificates?id=kpMpsOlPTBKph9g3PLBXpw) | NVIDIA DLI | 2025 |
 | [**Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/U89AFBFR4NMM) | Stanford University | 2023 |
 | [**Data Engineering and AWS**](https://www.coursera.org/account/accomplishments/specialization/OUGD3WNPRZ1I) | DeepLearning.AI | 2024 |
 | [**Advanced Data Analytics Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/AALR5T4XSEY6) | Google | 2023 |
@@ -56,6 +57,7 @@ Building scalable data pipelines and deploying AI/ML solutions in Luxembourg ðŸ‡
 
 <p>
   <img src="https://img.shields.io/badge/DeepLearning.AI-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-Multimodal_AI-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Stanford-ML_Specialization-8C1515?style=flat-square&logo=coursera&logoColor=white" />
   <img src="https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
