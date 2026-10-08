@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kaan Kaya
 
-**Business Intelligence Engineer | Data Engineer | AI Engineer**
+**Data Scientist | Data Engineer | AI Engineer**
 
 Building scalable data pipelines and deploying AI/ML solutions in Luxembourg 🇱🇺
 
